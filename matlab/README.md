@@ -1,0 +1,1 @@
+This is the folder that contains your Matlab stuff.  You should navigate Matlab to this folder and everything can then run from here.
