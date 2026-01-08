@@ -1,6 +1,6 @@
 # Lab 1 - Introduction to Matlab
 
-**_Peter Cheung, V1.0 - 18 January 2024_**
+**_Peter Cheung, V1.2 - 15 January 2026_**
 
 In this lab you will write some simple programs using MATLAB to  manipulate some 2D image data (as two-dimensional array) with simple matrix operations.  You will perform the following two geometric transformations:
 * Rotation
